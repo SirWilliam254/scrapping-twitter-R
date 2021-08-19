@@ -1,3 +1,4 @@
+```r
 # scrapping
 # Required packages
 > library(twitteR)
@@ -15,3 +16,4 @@ ts_twitter_df <- twListToDF(ts_twitter) #converting to a dataframe
 write.csv(ts_twitter_df, file="tokyo.csv", row.names=FALSE)
 # produce a table of 5 rows of the dataset
 ts_twitter_df %>% select(screenName, created, text) %>% sample_n(5) %>% pander(.)
+```

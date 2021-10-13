@@ -5,7 +5,7 @@ We require the packages
 - tidytext
 
 also to produce some good tables the package
-- pander 
+- pander, 
 is implemented
 
 After loading the required packages we can connect to twitter using its api

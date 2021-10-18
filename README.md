@@ -12,3 +12,5 @@ After loading the required packages we can connect to twitter using its api
 whereby authentication is required, hence the consumer key and token are required.
 
 From there we can search through using a certain keyword of interest.
+
+[ more details on the Blog !!](https://rail-contact.herokuapp.com/)

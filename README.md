@@ -13,4 +13,4 @@ whereby authentication is required, hence the consumer key and token are require
 
 From there we can search through using a certain keyword of interest.
 
-[ more details on the Blog !!](https://rail-contact.herokuapp.com/)
+[ more details on the Blog !!](https://sirwilliam254.github.io/flexible-jekyll/Scrapping-twitter-using-R/)
